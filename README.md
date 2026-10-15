@@ -9,7 +9,7 @@ Describe what your project is about and what it does
 
 This could include:
 
-- Step-by-step instructions for installing or setting up your project.
+- Using Python to explore bike share data.
 - Any software dependencies that need to be installed.
 - Instructions and examples for how to use your project, including any helpful code snippets.
 - Common issues and troubleshooting tips
@@ -20,7 +20,7 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to Udacity.
 
 ## Last update
 
