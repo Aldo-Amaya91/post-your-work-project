@@ -1,11 +1,11 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
 
-# Project Title
+# Bikeshare Project
 
 Describe what your project is about and what it does
 
-## Information about how to use your project
+## Python script to be used for NY city csv file
 
 This could include:
 
@@ -22,6 +22,6 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-## Date created
+## Last update
 
-Include the date you created this project and README file.
+October 15th 2026 Madrid, Spain
